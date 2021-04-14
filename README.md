@@ -10,9 +10,4 @@
 I am here on github to learn and to share the knowledge I recieve.
 
 - 🔭 I’m currently working on a private server for club penguin
-
-
-### GitHub Metrics from [Metrics.lecoq.io](https://metrics.lecoq.io)
-
-![Metrics](https://metrics.lecoq.io/colinantonell?template=classic&config.timezone=Europe%2FAmsterdam&config.animated=true)
-<!--
+- 📡 I'm looking to learn more about developing sites with crypto currency.
