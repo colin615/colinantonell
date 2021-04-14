@@ -1,7 +1,7 @@
 
 <h3 align="center">👋 Hi there! I'm Colin Antonell</h3>
 <p align="center">
- <p>adding website soon :P</p>
+ adding website soon :P
 </p>
 
 ---
