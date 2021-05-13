@@ -8,6 +8,4 @@
 ✨ I like to learn and build various websites and deploy them to the world wide web. 
 
 I am here on github to learn and to share the knowledge I recieve.
-
-- 🔭 I’m currently working on a private server for club penguin
 - 📡 I'm looking to learn more about developing sites with crypto currency.
